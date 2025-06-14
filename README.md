@@ -13,7 +13,7 @@ Either install the mod though thundertore (although if you built it thats probab
 in you plugins, titled really whatever you would like.
 
 Inside this folder put the dll file alongside the contents from the assets folder provided through this link
-<u>(placeholder)</u>
+<u>https://drive.google.com/drive/folders/13EjbPj09Y7w1LoB5FWfBX2D_08Qyxc7o?usp=sharing</u>
 
 <b>DO NOT</b> copy the extracted folder directly, copy all of its components seperately.
 This will ensure that the mod will be able to find its resources
